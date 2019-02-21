@@ -1,0 +1,14 @@
+{
+  "name": "mazesolver",
+  "version": "1.0.0",
+  "description": "Given an image of a maze, it will solve the maze and output an image of the solution.",
+  "main": "mazesolver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Sellers <esellers@thestar.ca>",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.6.0"
+  }
+}

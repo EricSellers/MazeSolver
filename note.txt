@@ -1,0 +1,17 @@
+You are given an image file that contains a maze.
+
+Inside the maze you will find a red circle and red square.
+The circle denotes the starting location in the maze and the square is the end.
+The square is 17x17 pixels, the circle is also 17x17.
+The there will be no entrance or exit to the maze (border goes all the way around)
+The background color will always be white, any color other than red or white 
+is considered a wall and you cannot pass through it.
+
+Create a node js app that can solve the maze and draw a blue line 
+from the starting circle to the ending square and create an image of the solution as mazesolution.jpg
+
+Red (255,0,0)
+Blue (0,0,255)
+White (0,0,0)
+
+
